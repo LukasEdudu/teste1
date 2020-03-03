@@ -1,1 +1,3 @@
-que linguagem, divisao em modulo
+que linguagem, divisao em modulo:
+
+Python, javascript e IA.

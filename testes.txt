@@ -1,1 +1,7 @@
-passos para testar os requisitos
+passos para testar os requisitos:
+
+Iremos utilizar o sistema operacional Android para monitoramento de velocidade, equilibrio
+no ar, capacidade de peso, bugs no sistema. O piloto ficara com um sistema operacional que
+acompanhara em tempo real a meteorologia, precipitacao e turbulencias, detalhes como altura
+das nuvens, visibilidade de chegada e controle de trafego aereo caso necessite de desvio
+de rota.

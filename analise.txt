@@ -1,1 +1,5 @@
-o que o sistema deve fazer
+o que o sistema deve fazer:
+
+Estamos trabalhando para a implantacao do carro voador eletrico . Que funciona num sistema 
+de plataformas dentro de uma mesma cidade. Sendo o nosso projeto final enrriquecer com uma
+solucao de mobilidade que o mesmo possa andar na rua e no ar.

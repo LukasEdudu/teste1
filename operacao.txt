@@ -1,0 +1,14 @@
+Como implantar e monitorar o sistema:
+
+Implataremos o sistema em desktops atraves de um site na internet com download disponivel, e nos 
+dispositivos mobiles atraves da PlayStore para Android e da Apple Store para IOs. Para o
+monitoramento sera ultilizado uma equipe de suporte.
+A começar pelo fato de todos os voos serem acompanhamento em tempo real do posicionamento 
+da aeronave, altitude, velocidades e rota estimada. A meteorologia nos aeroportos operados
+pelas aereas. As companhias se baseam em boletins meteorologicos emitidos pela aeronautica.
+As aeronaves tamem sao equipadas com diversos sistemas de seguranca, o radar meteorologico
+que emite alertas de mal tempo e turbulencias deixando o piloto ciente caso necessite
+desviar de sua rota padrao. Outros sistemas presentes sao: delocamento de ar em alta
+velocidade, alertas de proximidade com o solo, sistema anti-ice, sensores de temperatura,
+descarregadores de energia estatica redundancia de enguinicao no motor, limpadores 
+tradicioonais, antenas de GPS e radio de navegacao.

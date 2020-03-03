@@ -1,1 +1,3 @@
-como vou fazer
+como vou fazer:
+
+Framework, Python, desktop e mobile (Android e IOs).

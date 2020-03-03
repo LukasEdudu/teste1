@@ -1,0 +1,8 @@
+a empresa X quer realizar viagens utilizando carros voadores com o preco de viagem de 
+ate 10 dolares(necessidade do cliente):
+
+Veiculo que pode voar com apenas 10 dolares 200km. O veiculo é movido a gasolinba e 
+com autonomia de 200 km com apenas 10 dolares, o veiculo possui helices que o transforma 
+em uma especie de helicoptero, ja que conta com motor propulsor traseiro para locomocao.
+O veiculo pode levar ate duas pessoas de 100kg e 20kg de bagegem.
+o motor e movido a combustao e gasolina com velocidade maxima de 120km/h.
